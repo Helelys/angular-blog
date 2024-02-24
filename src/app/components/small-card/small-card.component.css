@@ -7,10 +7,17 @@
 
 .container__small-card{
   margin-bottom: 20px;
+  width: 500px
 }
 
 .container__img img{
   width: 100px;
   height: 100px;
   margin-right: 1em;
+}
+
+p
+{
+  text-align: justify;
+  width: 100%;
 }
